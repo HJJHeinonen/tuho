@@ -37,6 +37,7 @@ Code style should follow style guides described in [pep8](https://www.python.org
 - Automatic tests implemented and passed
 - Feature integrated to rest of the software
 
+
 ## Git commit style
 - Git commits should use style spesified in [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
